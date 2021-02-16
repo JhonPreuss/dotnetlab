@@ -1,0 +1,16 @@
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\bin\Debug\net5.0\Exerci1.exe
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\bin\Debug\net5.0\Exerci1.deps.json
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\bin\Debug\net5.0\Exerci1.runtimeconfig.json
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\bin\Debug\net5.0\Exerci1.runtimeconfig.dev.json
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\bin\Debug\net5.0\Exerci1.dll
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\bin\Debug\net5.0\ref\Exerci1.dll
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\bin\Debug\net5.0\Exerci1.pdb
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.csprojAssemblyReference.cache
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.AssemblyInfoInputs.cache
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.AssemblyInfo.cs
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.csproj.CoreCompileInputs.cache
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.dll
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\ref\Exerci1.dll
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.pdb
+C:\Users\jurac\OneDrive\Documentos\dotnetlab\Exerci1\obj\Debug\net5.0\Exerci1.genruntimeconfig.cache
